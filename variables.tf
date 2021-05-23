@@ -1,6 +1,6 @@
 variable "gcp_project" {
   type = string
-  default = "none"
+  default = "my-first-project-314600"
   description = "Your GCP Project"
 }
 
